@@ -236,6 +236,7 @@
 ||tracking.zaertlicheladies.de^
 ||tracking.zierlicheladies.de^
 ||tracksrv.zdf.de^
+||trk.edf.fr^
 ||tutti.ch/api/v10/clientmetrics/report-metric
 ||ud.galaxus.de^
 ||ui-portal.de/pos-cdn/tracklib/
